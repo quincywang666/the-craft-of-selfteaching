@@ -28,6 +28,10 @@ def main():
 
     print("".join([d.get(c, c) for c in s]))
 
+    
+    
+    
+    
 
 if __name__ == '__main__':
     main()
